@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T08:08:12.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" version="15.9.4" etag="eLYbmY4DZlhUtqvNEeBo" type="github"><diagram id="BKjDECO1Oxdv6NXEwwO5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-10T08:21:08.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="N-aJrOQvf5XFBX5LV8xH" version="15.9.4" type="github">
+  <diagram id="BKjDECO1Oxdv6NXEwwO5" name="Page-1">
+    <mxGraphModel dx="942" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="230" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Transaction ID: 0x11&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-4" value="Input&lt;br&gt;($20)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-7" value="Output0&lt;br&gt;($19)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-8" value="Output1&lt;br&gt;($1)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="285" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-9" value="" style="endArrow=classic;html=1;rounded=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mwyIQ4sYUCsaZX2YNKov-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="160" as="sourcePoint" />
+            <mxPoint x="150" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-10" value="Alice has $20 from&lt;br&gt;previous transactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="105" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Transaction ID: 0x12&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-13" value="Input&lt;br&gt;($19)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="625" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-14" value="Output0&lt;br&gt;($19)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="625" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1.004;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="mwyIQ4sYUCsaZX2YNKov-7" target="mwyIQ4sYUCsaZX2YNKov-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="sourcePoint" />
+            <mxPoint x="530" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-18" value="Alice sends &lt;br&gt;Bob $19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mwyIQ4sYUCsaZX2YNKov-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="800" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-20" value="Alice sends herself $1 as &quot;change&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="462" y="317" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mwyIQ4sYUCsaZX2YNKov-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="400" as="sourcePoint" />
+            <mxPoint x="1010" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwyIQ4sYUCsaZX2YNKov-22" value="Bob sends $17 to ..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="806" y="196" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
